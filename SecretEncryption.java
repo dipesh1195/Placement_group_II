@@ -55,3 +55,27 @@ public class SecretEncryption {
 	}
 
 }
+
+
+/* 
+Enter Secret message to send.
+i am bond,James Bond
+Choose your Encrypting technology
+1.Asia
+2.United States
+3.Dubai
+1
+Encrypted messsage is: 
+k"co"dqpf.Lcogu"Dqpf
+
+Enter Secret message to send.
+i am bond,James Bond
+Choose your Encrypting technology
+1.Asia
+2.United States
+3.Dubai
+2
+Encrypted messsage is: 
+105.32.97.109.32.98.111.110.100.44.74.97.109.101.115.32.66.111.110.100.
+
+*/
