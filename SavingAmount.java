@@ -79,3 +79,51 @@ public class SavingAmount {
 	}
 	
 }
+
+
+
+/*Output
+1.Deposite
+2.increment by 1000
+3.Decreament by 100
+4.Check Saving Balance
+5.Exit
+---------------------------------------
+Enter your Choise
+---------------------------------------
+1
+Enter Amount to Deposite.
+299
+Congratulations! You have saved a good amount
+Your current savings is Rs. 1299
+_______________________________________
+1.Deposite
+2.increment by 1000
+3.Decreament by 100
+4.Check Saving Balance
+5.Exit
+---------------------------------------
+Enter your Choise
+---------------------------------------
+2
+Congratulations! You have saved a good amount
+Your current savings is Rs. 2299
+_______________________________________
+1.Deposite
+2.increment by 1000
+3.Decreament by 100
+4.Check Saving Balance
+5.Exit
+---------------------------------------
+Enter your Choise
+---------------------------------------
+3
+Congratulations! You have saved a good amount
+Your current savings is Rs. 2199
+
+*/
+
+
+
+
+
