@@ -54,3 +54,24 @@ public static void main(String[] args) {
 	}
 }
 }
+
+
+/* 
+Enter Choice
+1.Sum two Integer
+2.Concatenate two Strings
+3.Sum of Ascii Value of String
+1
+Enter two Integer Value
+11 22
+Sum of Two Integer are 33
+
+Enter Choice
+1.Sum two Integer
+2.Concatenate two Strings
+3.Sum of Ascii Value of String
+3
+Enter string and Integer Value
+dipesh 23
+660
+*/
